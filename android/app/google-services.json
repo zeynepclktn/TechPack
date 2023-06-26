@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1087486246349",
+    "project_id": "techpackauth",
+    "storage_bucket": "techpackauth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087486246349:android:5e62d8969ab62fd8df9884",
+        "android_client_info": {
+          "package_name": "com.iuc.techpack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087486246349-uapuglvt252koqp1o1t21vrfdhhhtkbi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4tsLtJnJoS2p2W11gQfii2gW3gP6_iEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087486246349-uapuglvt252koqp1o1t21vrfdhhhtkbi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,131 @@
+[
+    {
+        "id":1,
+        "title":"Msi Katana G76",
+        "category":"laptop",
+        "price":19789,
+        "vendor":"itopya",
+        "image":"assets/images/Msi_Katana_G76.webp"
+    },
+    {
+        "id":2,
+        "title":"Lenovo Ideapad 3",
+        "category":"laptop",
+        "price":10999,
+        "vendor":"vatan bilgisayar",
+        "image":"assets/images/Lenovo_Ideapad_3.webp"
+    },
+    {
+        "id":3,
+        "title":"Apple MacBook Air M1",
+        "category":"laptop",
+        "price":24989,
+        "vendor":"teknosa",
+        "image":"assets/images/Apple_MacBook_Air_M1.webp"
+    },
+    {
+        "id":4,
+        "title":"Huawei Matebook D15",
+        "category":"laptop",
+        "price":14999,
+        "vendor":"media markt",
+        "image":"assets/images/Huawei_Matebook_D15.png"
+    },
+    {
+        "id":5,
+        "title":"Rampage 27\" RM-420 BLACK EAGLE Monitör",
+        "category":"monitor",
+        "price":3824,
+        "vendor":"itopya",
+        "image":"assets/images/Rampage_27_RM-420_BLACK_EAGLE_Monitor.jpg"
+    },
+    {
+        "id":6,
+        "title":"ASUS 27\" VG27AQZ 2K Gaming Monitör",
+        "category":"monitor",
+        "price":6306,
+        "vendor":"vatan bilgisayar",
+        "image":"assets/images/ASUS_27_VG27AQZ_165HZ_2K_Gaming_Monitor.jpg"
+    },
+    {
+        "id":7,
+        "title":"Xiaomi RMMNT27NF 27\" Full HD IPS Monitör",
+        "category":"monitor",
+        "price":3999,
+        "vendor":"teknosa",
+        "image":"assets/images/Xiaomi_RMMNT27NF_27_Full_HD_IPS_Monitor.jpg"
+    },
+    {
+        "id":8,
+        "title":"SAMSUNG Odyssey G3 27\" 165HZ Monitör",
+        "category":"monitor",
+        "price":3999,
+        "vendor":"media markt",
+        "image":"assets/images/SAMSUNG_LS27AG320NUXUF_Odyssey_G3_27_165HZ_Monitor.jpg"
+    },
+    {
+        "id":9,
+        "title":"GIGABYTE GeForce RTX 4090 Ekran Kartı",
+        "category":"graphics card",
+        "price":48499,
+        "vendor":"itopya",
+        "image":"assets/images/GIGABYTE_GeForce_RTX_4090_Ekran_Kart.jpg"
+    },
+    {
+        "id":10,
+        "title":"GIGABYTE GeForce GTX 1660 SUPER OC",
+        "category":"graphics card",
+        "price":7423,
+        "vendor":"vatan bilgisayar",
+        "image":"assets/images/GIGABYTE_GeForce_GTX_1660_SUPER_OC_Ekran_Kart.jpg"
+    },
+    {
+        "id":11,
+        "title":"Zotac RTX 3050 Twin Edge OC",
+        "category":"graphics card",
+        "price":7927,
+        "vendor":"teknosa",
+        "image":"assets/images/Zotac_RTX_3050_Twin_Edge_OC_Ekran_Kart.jpg"
+    },
+    {
+        "id":12,
+        "title":"ASUS ROG Strix RTX3090",
+        "category":"graphics card",
+        "price":42997,
+        "vendor":"media markt",
+        "image":"assets/images/ASUS_ROG_Strix_RTX3090.webp"
+    },
+    {
+        "id":13,
+        "title":"SteelSeries Arctis Nova 1P",
+        "category":"headset",
+        "price":1799,
+        "vendor":"itopya",
+        "image":"assets/images/SteelSeries_Arctis_Nova_1P.jpg"
+    },
+    {
+        "id":14,
+        "title":"LOGITECH G432",
+        "category":"headset",
+        "price":1199,
+        "vendor":"vatan bilgisayar",
+        "image":"assets/images/LOGITECH_G432.webp"
+    },
+    {
+        "id":15,
+        "title":"Razer Kraken Gaming Kulaklık Pembe",
+        "category":"headset",
+        "price":2259,
+        "vendor":"teknosa",
+        "image":"assets/images/Razer_Kraken_Gaming_Kulaklk_Pembe.jpg"
+    },
+    {
+        "id":16,
+        "title":"RAMPAGE X-RANGER 7.1 Surround",
+        "category":"headset",
+        "price":749,
+        "vendor":"media markt",
+        "image":"assets/images/RAMPAGE_X-RANGER_7.1_Surround_Oyuncu_Kulaklg.webp"
+    }
+
+]
